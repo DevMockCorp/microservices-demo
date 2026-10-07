@@ -65,7 +65,7 @@ six==1.16.0
     # via
     #   geventhttpclient
     #   python-dateutil
-urllib3==2.2.1
+urllib3==2.8.0
     # via requests
 werkzeug==3.0.1
     # via
