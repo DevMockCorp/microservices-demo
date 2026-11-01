@@ -49,7 +49,7 @@ markupsafe==2.1.5
     # via
     #   jinja2
     #   werkzeug
-msgpack==1.0.8
+msgpack==1.2.3
     # via locust
 psutil==5.9.8
     # via locust
